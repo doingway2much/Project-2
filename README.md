@@ -65,7 +65,6 @@ npm install
 ```
 mysq -u root -p
 source schema.sql
-souce seed.sql
 ```
 7) Once that is done just run the app
 ```
