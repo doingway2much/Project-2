@@ -72,19 +72,22 @@ node server.js
 ---
 
 *****HIDDEN PAGES*****
----
+
+
 /admin
 ![AdminView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/admin.jpg?raw=true)
 
 This page lets you see all of the users but has a delete button so you can delete entries from the database with out writing queries.
 
 ---
+
 /find
 ![FindView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/find.jpg?raw=true)
 
 This page lets you select what interests you want to search for and will return the id's to the console in an object.  This needs to be tied to the next view but we ran out of time.
 
 ---
+
 /found
 ![FoundView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/found.jpg?raw=true)
 
