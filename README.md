@@ -60,10 +60,10 @@ MYSQL_KEY="Your password" (no quotes)
 npm install
 ```
 
-5) Created the database and add your seed data you may have to add the creatAT and updated at files if you getting an error importing the seed files.
+5) Created the database and add your seed data you may have to add the creatAT and updated at files if you getting an error importing the seed files.  You don't need to seed the data you will jsut have to create users after running the commands below.  This can be done from the all once it's run.
 
 ```
-mysq -u root -p
+mysql -u root -p
 source schema.sql
 ```
 7) Once that is done just run the app
