@@ -23,6 +23,7 @@ Technologies:
 ![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
 
 ---
+
 #About Us
 StudyBuddy was created because we saw how hard it was to find a study buddy especially for those already out of school.
 We sought out to create a platform where users can find other buddies to help further their understanding and learning.
