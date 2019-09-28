@@ -23,12 +23,13 @@ Technologies:
 ![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
 
 ---
-
 #About Us
+
 StudyBuddy was created because we saw how hard it was to find a study buddy especially for those already out of school.
 We sought out to create a platform where users can find other buddies to help further their understanding and learning.
 In the future, we want StudyBuddy to help connect students of all subjects and include in-house learning content.
 StudyBuddy was created using HTML, CSS, Javascript, jQuery, Handlebars, MySQl, Materialize and Node.
+
 ---
 
 Installing and setting up the App:
@@ -76,14 +77,18 @@ node server.js
 ![AdminView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/admin.jpg?raw=true)
 
 This page lets you see all of the users but has a delete button so you can delete entries from the database with out writing queries.
+
 ---
 /find
 ![FindView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/find.jpg?raw=true)
 
 This page lets you select what interests you want to search for and will return the id's to the console in an object.  This needs to be tied to the next view but we ran out of time.
+
 ---
 /found
 ![FoundView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/found.jpg?raw=true)
 
 This page statically finds the users that have selected the interests id's of "1 and 5".   I still need to grab that data from the find page and pass it to this page but as mentioned before we ran out of time.
+
 ---
+
