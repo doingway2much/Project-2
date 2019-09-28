@@ -1,4 +1,5 @@
 #Suddy Buddy
+
 Project # 2 (Georgia Tech Bootcamp)
 Colaborator: Seth Randell, Jesselyn Jackson  and Ryan Sims
 
@@ -13,7 +14,8 @@ Technologies:
 * Sequelize ORM
 * Matirelize
 
-[![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
+![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
+
 
 #About Us
 StudyBuddy was created because we saw how hard it was to find a study buddy especially for those already out of school.
@@ -60,5 +62,18 @@ node server.js
 ```
 
 *****HIDDEN PAGES*****
+
 /admin
-This page lets yous see 
+![AdminView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/admin.jpg?raw=true)
+
+This page lets yous see all of the users but has a delete button so you can delete entries from the database with out writing queries.
+
+/find
+![FindView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/find.jpg?raw=true)
+
+This page lets you select what intrests you want to search for and will return the id's to the console in an object.  This needs to be tied to the next view but we ran out of time.
+
+/found
+![FoundView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/found.jpg?raw=true)
+
+This page statically finds the users that have selcted the interests id's of "1 and 5".   I still need to grab that data from the find page and pass it to this bage but as mentioned before we ran out of time.
