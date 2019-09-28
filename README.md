@@ -1,7 +1,10 @@
-#Suddy Buddy - Project # 2 
+#Suddy Buddy
+Project # 2 (Georgia Tech Bootcamp)
 Colaborator: Seth Randell, Jesselyn Jackson  and Ryan Sims
 
-Techknowlagies:
+We came up with this idea to bring people together that are going through the same thing.  We noticed when working together in Bootcamp we were able to retain more and helped each other grasp the marital better.  This project was quite challenging at first due to the different issues we ran into joining the data from different tables.  This caused us to run into issues with the search for buddy page and that's why it's just static.  Please see the hidden features at the bottom of the page to see what else was done in this project.
+
+Technologies:
 * JavaScript
 * jQuery
 * mySQL
@@ -10,7 +13,7 @@ Techknowlagies:
 * Sequelize ORM
 * Matirelize
 
-[![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)]
+[![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
 
 #About Us
 StudyBuddy was created because we saw how hard it was to find a study buddy especially for those already out of school.
@@ -56,4 +59,6 @@ souce seed.sql
 node server.js
 ```
 
-
+*****HIDDEN PAGES*****
+/admin
+This page lets yous see 
