@@ -64,6 +64,6 @@ node server.js
 *****HIDDEN PAGES*****\
 
 /admin
-[![AdminView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/admin.jpg?raw=true)]
+![AdminView](https://github.com/doingway2much/Study-Buddy/blob/master/public/img/admin.jpg?raw=true)
 
 This page lets yous see all of the users but has a delete button so you can delete entries from the database with out writing queries.
