@@ -22,6 +22,8 @@ Technologies:
 ---
 ![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
 
+Demo the site @ https://safe-shore-42414.herokuapp.com
+
 ---
 #About Us
 
