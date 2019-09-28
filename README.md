@@ -10,7 +10,7 @@ Techknowlagies:
 * Sequelize ORM
 * Matirelize
 
-[!Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)
+[![Project2](https://github.com/doingway2much/Bootstrap-Portfolio/blob/master/assets/img/SB.jpg?raw=true)]
 
 #About Us
 StudyBuddy was created because we saw how hard it was to find a study buddy especially for those already out of school.
